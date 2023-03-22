@@ -1,10 +1,15 @@
 # ☕ Company Home Page with Flexbox
-Company Home Page with Flexbox is a challenge project from Codecademy's Front End Engineer Career Path. For this project I have created a clone of a local coffee company's website, using Flexbox to design and build the layout. The original website for Fabrica Coffee Roasters can be found here: www.fabricacoffeeroasters.com. Please note that my project is not affiliated or endorsed by Fabrica Coffee Roasters in any way. 
+Company Home Page with Flexbox is a challenge project from Codecademy's Front End Engineer Career Path. For this project I have created a clone of a local coffee company's website, using Flexbox to design and build the layout. 
+
+The original website for Fabrica Coffee Roasters can be found here: 
+www.fabricacoffeeroasters.com. 
+
+Please note that my project is not affiliated with or endorsed by Fabrica Coffee Roasters in any way. 
 
 ## 🛠️ Installation
 To install my solution to the Company Home Page project, follow these steps:
 
-1. Clone the repository to your local machine using **``git clone https://github.com/mary-brooks/company-home-page.git``**
+1. Clone the repository to your local machine using **``git clone https://github.com/mary-brooks/Company-Home-Page.git``**
 2. Open the **``index.html``** file in your web browser to view the project. 
 
 ## 👩‍💻 Usage
@@ -18,7 +23,7 @@ To use my solution to the Company Home Page project, follow these steps:
 My solution to the Company Home Page project has the following features:
 
 - A sticky header and navigation
-- Responsive design using flexbox and media queries
+- Responsive design using Flexbox and media queries
 - Dynamic layout that adjusts to different screen sizes
 
 ## ⚡ Technologies Used
@@ -29,7 +34,7 @@ My solution to the Company Home Page project was built using the following techn
 - Git
 
 ## 🔜 Next Steps 
-To improve my solution to the Company Home Page project, I am currently working on the following next steps: 
+To improve my solution to the Company Home Page project, I am currently working on the following next steps and added features: 
 
 - [ ] Scrolling marquee
 - [ ] Featured product gallery
